@@ -24,4 +24,4 @@ To see this program you just have to run it.
 
 ### Any optional sections
 
-Chandler was here...
+Chandler was here.
